@@ -7,6 +7,9 @@ void series(){
 	}
 }
 int main(){
+	int a=20;
 series();
+cout<<endl;
+cout<<a;
 return 0;
 }
